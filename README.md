@@ -1,4 +1,8 @@
 
+todo:
+
+get REPL going from a VS task command
+    maybe just have it load at the start?
 
 # To run REPL and source a file
 
@@ -20,3 +24,4 @@ console.log(arr.sum());
 
 // above triple slash is needed for sugar in extended mode, 
 reference must be at top of file!!!
+

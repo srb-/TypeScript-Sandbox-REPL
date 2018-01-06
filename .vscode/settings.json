@@ -1,0 +1,15 @@
+{
+    
+
+        // Mocha: Glob to search for test files
+        "mocha.files.glob": "*.tests.ts",
+
+        "mocha.runTestsOnSave": "true",
+        "compilers": {
+            "ts": "ts-node/register"
+        },
+        "mocha.requires": [
+            "ts-node/register"
+        ]
+    
+}

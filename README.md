@@ -1,9 +1,23 @@
 
+## Hello
+
 todo:
 
 
 only runs my test after I hit save on some file!
     seems to ignore everything else (mouse commands)
+        live with it, can't find easy way to fix
+
+
+fix output window showing after every save!
+
+
+
+get DevDocs going offline for Chai, typescript, everything!!
+
+
+get linting going for semicolons, etc!
+
 
 
 

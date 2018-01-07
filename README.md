@@ -3,25 +3,20 @@
 
 Environment that supports quick language learning and experimenting in the following ways:
 
-1. Compile, run or debug any arbitrary TS file (CTRL-F5)
+1. Compile, run or debug (with breakpoints) any arbitrary TS file (CTRL-F5)
 2. Write tests that are run automatically against any TS file (just named xxxx.test.ts)
 3. Runs a TS REPL (ts-node) in the Terminal window. Use .load filename.ts to execute TS files, .clear to reset scope
 
 
-### Todo:
+### Todos:
 
-- [x] clean this readme up properly
-- [x] make a src folder to keep it clean (but keep test with files)
-- [x] get linting going for semicolons, etc!
-- [x] fix output window showing after every save!
-
-
-
-
-
-- DONE - get DevDocs going offline for Chai, typescript, everything!!
-- DONE - get REPL going from a VS task command
-- DONE - maybe just have it load at the start?
++ [ ] clean this readme up properly
++ [ ] make a src folder to keep it clean (but keep test with files) May cause errors and make repl annoying to use
++ [ ] get linting going for semicolons, etc!
++ [ ] fix output window showing after every save!
++ [x] get DevDocs going offline for Chai, typescript, everything!!
++ [x] get REPL going from a VS task command
++ [x] maybe just have it load at the start?
 
 
 ### Random notes:

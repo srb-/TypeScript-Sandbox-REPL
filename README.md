@@ -46,3 +46,6 @@ cannot do .clear; semicolon...
 In ts-node: return value of last run expression is underscore _
 
 
+if getting red squigly lines on import in VSCode try pressing F1 to reload window
+
+in sugar use .raw to get unchained underlying object

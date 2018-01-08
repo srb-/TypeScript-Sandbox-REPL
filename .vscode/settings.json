@@ -1,5 +1,5 @@
 {
-    "mocha.files.glob": "*.tests.ts",
+    "mocha.files.glob": "test/**/*.tests.ts",
     "mocha.runTestsOnSave": "true",
     "mocha.options": {
         "compilers": {

@@ -7,7 +7,7 @@
     "url": "https://github.com/srb-/TypeScript-Sandbox-REPL.git"
   },
   "scripts": {
-    "REPL": "ts-node --type-check"
+    "REPL": "cd src && ts-node --type-check"
   },
   "author": "Stephen Beath",
   "license": "ISC",

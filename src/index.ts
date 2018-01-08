@@ -34,7 +34,7 @@ console.log('hello');
 
 
 let arr = Sugar.Array([2,3,4,3,1,4]);
-console.log(arr.unique());
+console.log(arr.unique().toString());
 
 
 

@@ -18,6 +18,10 @@ Environment that supports quick language learning and experimenting in the follo
 + [x] get REPL going from a VS task command
 + [x] maybe just have it load at the start?
 
+### Installation
+
+Requires VS Code with the Mocha Sidebar extension. 
+
 
 ### Random notes:
 

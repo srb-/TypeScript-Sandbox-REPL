@@ -1,13 +1,12 @@
 {
-  "name": "almost",
+  "name": "typescript-mocha-repl",
   "version": "1.0.0",
   "description": "",
-  "main": "test.ts",
+  "main": "index.ts",
   "repository": {
     "url": "https://github.com/srb-/TypeScript-Sandbox-REPL.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "REPL": "ts-node --type-check"
   },
   "author": "Stephen Beath",
